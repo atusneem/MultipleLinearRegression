@@ -1,2 +1,2 @@
 # MultipleLinearRegression
-Multiple Linear Regression using scikit learn and from scratch.
+Multiple Linear Regression using scikit learn. 
